@@ -1,1 +1,1 @@
-# In the Matplotlib and Seaborn exercise, some of the visuals are intentionally done to look horrible to showcase what happened if we didnt properly evaluate and process the data before visualizing it
+
